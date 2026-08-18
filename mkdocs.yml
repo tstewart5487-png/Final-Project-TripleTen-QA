@@ -1,0 +1,15 @@
+site_name: Urban Scooter QA — TripleTen Portfolio
+site_description: QA deliverables and proof-of-work for TripleTen final project
+nav:
+  - Home: index.md
+  - Web form: UrbanScooterwebapp.md
+  - API: UrbanRoutesAPItesting.md
+  - Mobile: APItesting.md
+
+pages:
+  - index.md
+
+repo_url: https://github.com/tstewart5487-png/Final-Project-TripleTen-QA
+
+theme:
+  name: mkdocs
